@@ -2,8 +2,6 @@
 
 This is a minimalistic but useful Python-based website crawler for Linux, and other OSs with `wget` available.
 
-    wget + Python + PostgreSQL = win
-
 ## Motivation
 
 There are dozens of frameworks for crawling and indexing the web, but they can require a lot of set up and tweaking. Examples of more approachable frameworks are [Scrapy](http://scrapy.org/) for Python and [Simplecrawler](https://www.npmjs.com/package/simplecrawler) for Node. At the other end of the scale is Apache's [Nutch](http://nutch.apache.org/) web crawler, backed by Hadoop.
